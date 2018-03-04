@@ -5,9 +5,6 @@ Overview
 ---
 In this project, deep neural networks and convolutional neural networks techniques are used to classify traffic signs. Such networks will be trained and validated to classify traffic sign images using the [German Traffic Sign Dataset](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). After the model is trained, the model will be tested on images of German traffic signs found on the web.
 
-Ipython notebook is used to generate the project.
-
-A detailed writeup of the project can be found [P2.pdf](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.pdf)
 
 The project contains two major parts: 
 * the Ipython notebook [P2.ipynb](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.ipynb)
