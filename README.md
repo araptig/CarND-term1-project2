@@ -7,7 +7,7 @@ In this project, deep neural networks and convolutional neural networks techniqu
 
 Ipython notebook is used to generate the project.
 
-A detailed writeup of the project can be found P2.pdf. 
+A detailed writeup of the project can be found [P2.pdf](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.pdf)
 
 To meet specifications, the project will require submitting three files: 
 * the Ipython notebook with the code
