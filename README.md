@@ -9,10 +9,9 @@ Ipython notebook is used to generate the project.
 
 A detailed writeup of the project can be found [P2.pdf](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.pdf)
 
-To meet specifications, the project will require submitting three files: 
-* the Ipython notebook with the code
-* the code exported as an html file
-* a writeup report either as a markdown or pdf file 
+The project contains two major parts: 
+* the Ipython notebook [P2.ipynb](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.ipynb)
+* a writeup report [P2.pdf](https://github.com/araptig/CarND-term1-project2-Traffic-Sign-Classifier/blob/master/P2.pdf)
 
 The Project
 ---
